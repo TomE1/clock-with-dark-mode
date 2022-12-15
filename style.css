@@ -55,7 +55,7 @@
 
   /* cool borders */
 
-  --borderRed: 7px solid red;
+/*   --borderRed: 7px solid red;
   --borderLime: 7px solid lime;
   --borderPink: 7px solid pink;
   --borderViolet: 7px solid violet;
@@ -72,7 +72,7 @@
   --borderGray: 7px solid gray;
   --borderGreen: 7px solid green;
   --borderAqua: 7px solid aqua;
-  --borderTurquoise: 7px solid turquoise;
+  --borderTurquoise: 7px solid turquoise; */
 
   /* box shadow*/
   --shadow-1: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
